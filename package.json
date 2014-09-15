@@ -1,0 +1,30 @@
+{
+	"name": "stackoverflow-parser",
+	"version": "0.1.0",
+	"description": "parse stackoverflow page",
+	"main": "lib/index.js",
+	"author": "yangsibai",
+	"license": "GPL3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yangsibai/node-stackoverflow-parser"
+	},
+	"keywords": [
+		"stackoverflow",
+		"parser",
+		"question",
+		"readability"
+	],
+	"bugs": {
+		"url": "https://github.com/yangsibai/node-stackoverflow-parser/issues"
+	},
+	"dependencies": {
+		"cheerio": "^0.17.0",
+		"request": "^2.42.0",
+		"underscore": "^1.7.0"
+	},
+	"devDependencies": {
+		"mocha": "^1.21.4",
+		"should": "^4.0.4"
+	}
+}
