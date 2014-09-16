@@ -1,6 +1,6 @@
 {
 	"name": "stackoverflow-parser",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "parse stackoverflow page",
 	"main": "lib/index.js",
 	"author": "yangsibai",
@@ -13,7 +13,9 @@
 		"stackoverflow",
 		"parser",
 		"question",
-		"readability"
+		"answer",
+		"readability",
+		"program"
 	],
 	"bugs": {
 		"url": "https://github.com/yangsibai/node-stackoverflow-parser/issues"
